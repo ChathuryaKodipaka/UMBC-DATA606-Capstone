@@ -1,6 +1,6 @@
 # Full Name
 
-![Your Headshot Photo](path-to-your-photo.jpg)
+![Your Headshot Photo](pic.png)
 
 ## Contact Information
 - **Email:** your.email@example.com
@@ -17,15 +17,14 @@ Expected Graduation: December 2025
 Graduated: Year
 
 ## Experience
-### Data Scientist | Cognizant Technology Solutions
+### Data Scientist 
 **July 2022 - January 2024**  
 - Led the development of machine learning models.
-- Conducted extensive data preprocessing and feature engineering.
 
-### Data Analyst | USC Transportation Department
+
+### Data Analyst 
 **May 2024 - Present**  
-- Managed large datasets and cleaned data for accuracy.
-- Provided customer service for transportation-related issues.
+
 
 ## Skills
 - **Programming Languages:** Python, SQL, R
@@ -46,4 +45,4 @@ Graduated: Year
 - Interest 3
 
 
-![Your Headshot Photo](pic.png)
+
