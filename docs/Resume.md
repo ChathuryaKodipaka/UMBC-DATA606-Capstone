@@ -46,4 +46,4 @@ Graduated: Year
 - Interest 3
 
 
-![Your Headshot Photo](docs/pic.png)
+![Your Headshot Photo](pic.png)
