@@ -45,4 +45,4 @@ Graduated: Year
 - Interest 2
 - Interest 3
 
-![Your Headshot Photo]/Users/chathurya/Desktop/pic.jpg)
+
