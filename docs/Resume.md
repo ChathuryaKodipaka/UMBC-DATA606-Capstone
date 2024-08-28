@@ -43,20 +43,30 @@
 
 ## 💼 Experience
 
-### Math Coach (Tutor) | UMBC Reach Together Tutoring Program, Baltimore City Public Schools
+---
+
+### **Math Coach (Tutor)**  
+**UMBC Reach Together Tutoring Program, Baltimore City Public Schools**  
 *January 2024 – Present, Baltimore, MD*
 
-- Organized and coordinated collaborative programs with Westport Elementary School, enhancing student development activities.
-- Led weekly training sessions for innovative teaching strategies and effective communication skills, improving the learning experience for peer tutors.
-- Instructed and mentored a diverse group of 2nd and 8th grade students.
+- 📚 **Organized and coordinated** collaborative programs with Westport Elementary School, enhancing student development activities.
+- 🧠 **Led weekly training sessions** for innovative teaching strategies and effective communication skills, improving the learning experience for peer tutors.
+- 👩‍🏫 **Instructed and mentored** a diverse group of 2nd and 8th grade students.
 
-### Biostatistics Intern | GlaxoSmithKline
+---
+
+### **Biostatistics Intern**  
+**GlaxoSmithKline**  
 *January 2022 – June 2022, Karnataka, India*
 
-- Conducted a thorough expository study to develop a Bayesian Model Comparison for phase II clinical trial dose-response research.
-- Evaluated the selection of models between Frequentist and Bayesian techniques, incorporating historical data, and analyzing multiple dose levels.
-- Enhanced model accuracy and dependability using R for advanced statistical analysis on simulated data using mixed priors.
-- Improved the presentation and analysis of clinical trial data by leveraging SAS for data wrangling tasks, including creating mock shells, SDTM, and ADAM datasets.
+- 🧬 **Conducted a thorough expository study** to develop a Bayesian Model Comparison for phase II clinical trial dose-response research.
+- 📊 **Evaluated the selection of models** between Frequentist and Bayesian techniques, incorporating historical data, and analyzing multiple dose levels.
+- 🎯 **Enhanced model accuracy** and dependability using R for advanced statistical analysis on simulated data using mixed priors.
+- 📝 **Improved the presentation and analysis** of clinical trial data by leveraging SAS for data wrangling tasks, including creating mock shells, SDTM, and ADAM datasets.
+
+---
+
+
 
 ---
 
