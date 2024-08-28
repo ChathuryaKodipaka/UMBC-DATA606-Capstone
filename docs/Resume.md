@@ -4,12 +4,11 @@
 
 ## 📞 Contact Information
 
-| 📧 **Email**       | [at39250@umbc.edu](mailto:at39250@umbc.edu)           |
-|--------------------|-------------------------------------------------------|
-| 📱 **Phone**       | (443) 830-7531                                        |
+| 📧 **Email**       | [at39250@umbc.edu](mailto:at39250@umbc.edu)                           |
+|--------------------|-----------------------------------------------------------------------|
+| 📱 **Phone**       | (443) 830-7531                                                        |
 | 💼 **LinkedIn**    | [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud) |
-| 👨‍💻 **GitHub**     | [github.com/Chathurya2024](https://github.com/Chathurya2024)         |
-
+| 👨‍💻 **GitHub**     | [github.com/Chathurya2024](https://github.com/Chathurya2024)           |
 
 ---
 
