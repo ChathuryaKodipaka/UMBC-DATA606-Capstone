@@ -1,5 +1,15 @@
 # CHATHURYA GOUD KODIPAKA
 ![Headshot Photo](pic.png)
+---
+
+## 📞 Contact Information
+
+| 📧 **Email**       | [at39250@umbc.edu](mailto:at39250@umbc.edu)           |
+|--------------------|-------------------------------------------------------|
+| 📱 **Phone**       | (443) 830-7531                                        |
+| 💼 **LinkedIn**    | [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud) |
+| 👨‍💻 **GitHub**     | [github.com/Chathurya2024](https://github.com/Chathurya2024)         |
+
 
 ---
 
@@ -109,7 +119,7 @@
 
 ### **Big Data Analytics for Diabetes Risk Assessment**  
 *Tools: PySpark, Python, Tableau, Databricks*  
-* November 2023*
+*November 2023*
 
 **Project Overview**:  
 - Conducted comprehensive **data cleaning**, **visualizations**, and **data modeling** for diabetes risk assessment.
@@ -124,7 +134,7 @@
 
 ### **Deciphering Electric Energy Pricing in U.S. Households**  
 *Tools: Python, Seaborn, Pandas, Numpy*  
-* December 2023*
+*December 2023*
 
 **Project Overview**:  
 - Conducted a comprehensive study on **electric energy pricing dynamics** across U.S. households.
@@ -158,14 +168,6 @@
 - **Deep Learning Specialization** - DeepLearning.AI through Coursera
 - **Getting Started with SAS Programming** - SAS through Coursera
 - **Getting Started with Power BI Desktop** - Coursera Project Network
----
-## 📞 Contact Information
-
-| 📧 **Email**       | [at39250@umbc.edu](mailto:at39250@umbc.edu)           |
-|--------------------|-------------------------------------------------------|
-| 📱 **Phone**       | (443) 830-7531                                        |
-| 💼 **LinkedIn**    | [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud) |
-| 👨‍💻 **GitHub**     | [github.com/Chathurya2024](https://github.com/Chathurya2024)         |
 
 ---
 
