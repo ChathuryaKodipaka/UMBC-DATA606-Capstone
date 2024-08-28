@@ -1,14 +1,9 @@
-# CHATHURYA GOUD KODIPAKA
-
-![Your Headshot Photo](pic.png)
-
-
 <p align="center">
   <img src="pic.png" alt="Your Headshot Photo">
 </p>
 
 <p align="center">
-  <strong>CHATHURYA GOUD KODIPAKA</strong>
+  <strong># CHATHURYA GOUD KODIPAKA</strong>
 </p>
 
 
