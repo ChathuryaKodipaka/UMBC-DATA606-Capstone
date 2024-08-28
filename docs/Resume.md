@@ -20,9 +20,10 @@
 *GPA: 3.12/4.00 | Graduated: September 2022*
 
 **Relevant Coursework**:  
-- Bayesian Modeling  
-- Clinical Trial Design  
-- Statistical Computing
+- 📉 **Bayesian Modeling**
+- 🧪 **Clinical Trial Design**
+- 🔢 **Statistical Computing**
+
 
 ---
 
@@ -31,9 +32,10 @@
 *GPA: 3.78/4.00 | Graduated: November 2020*
 
 **Relevant Coursework**:  
-- Algorithms  
-- Data Structures  
-- Database Management Systems
+- 📐 **Algorithms**
+- 🔗 **Data Structures**
+- 💾 **Database Management Systems**
+
 
 ---
 
