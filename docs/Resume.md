@@ -121,19 +121,19 @@
 - 👩‍🏫 **Mentorship**: Collaborated under the guidance of **Marium Mehdi**, Department of Data Science, to refine modeling techniques and enhance outcomes.
 
 ---
-
-### **Space Agency Operations Forecasting**  
-*Tools: Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Beautiful Soup*  
+### **Deciphering Electric Energy Pricing in U.S. Households**  
+*Tools: Python, Seaborn, Pandas, Numpy*  
 *📅 December 2023*
 
 **Project Overview**:  
-- Developed a forecasting model for space agency operations by integrating data from multiple sources.
+- Conducted a comprehensive study on **electric energy pricing dynamics** across U.S. households.
+- Guided by **Masoud Soroush**, Professor, Department of Data Science, to uncover valuable insights into energy pricing patterns.
 
 **Key Contributions**:
-- 🌐 **Web Scraping Mastery**: Automated data extraction from over **256 web pages**, including nested child pages, using **Beautiful Soup**.
-- 🧽 **Data Wrangling**: Performed meticulous data cleaning using **Pandas** and **NumPy**, ensuring accuracy and consistency.
-- 📈 **Advanced Visualizations**: Utilized **Matplotlib**, **Seaborn**, and **Plotly** for dynamic visualizations, presenting key trends and predictions.
-- 🔍 **Predictive Modeling**: Implemented **scikit-learn** to develop and evaluate forecasting models.
+- 🧹 **Data Cleaning & Preparation**: Performed extensive data cleaning and preprocessing to ensure data integrity for analysis.
+- 🔍 **Exploratory Data Analysis (EDA)**: Utilized **Seaborn** and **Pandas** for visualizations and statistical summaries to explore key patterns in energy pricing.
+- 🤖 **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary hyper-parameter tuning for optimization.
+- 📊 **Insightful Reporting**: Compiled findings into comprehensive reports, highlighting significant trends and potential factors influencing electric energy prices.
 
 ---
 
