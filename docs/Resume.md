@@ -10,7 +10,7 @@
 
 ## 📚 Education
 
-### Master of Science in Applied Data Science
+### Master of Professional Studies in Data Science
 **University of Maryland, Baltimore County**  
 (Expected Graduation: December 2025)
 
@@ -21,8 +21,7 @@
 
 ## 💼 Experience
 
-### Data Analyst | USC Transportation Department
-*May 2024 – Present, Los Angeles, CA*
+### 
 
 - Managed large datasets in Excel, ensuring data integrity and accuracy.
 - Conducted data analysis using Python and Excel to improve transportation processes.
