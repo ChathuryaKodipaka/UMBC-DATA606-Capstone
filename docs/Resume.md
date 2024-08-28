@@ -8,6 +8,7 @@
 [![University of Maryland, Baltimore County](https://img.shields.io/badge/University_of_Maryland_Baltimore_County-%230077B5.svg?style=for-the-badge&logo=university&logoColor=white)](https://umbc.edu)  
 **Master of Professional Studies in Data Science**  
 *GPA: 3.92/4.00 | Expected Graduation: December 2024*
+
 **Relevant Coursework**:  
 - 📊 **Machine Learning**
 - 🗄️ **Big Data Analytics**
