@@ -109,7 +109,7 @@
 
 ### **Big Data Analytics for Diabetes Risk Assessment**  
 *Tools: PySpark, Python, Tableau, Databricks*  
-*📅 November 2023*
+* November 2023*
 
 **Project Overview**:  
 - Conducted comprehensive **data cleaning**, **visualizations**, and **data modeling** for diabetes risk assessment.
@@ -124,7 +124,7 @@
 
 ### **Deciphering Electric Energy Pricing in U.S. Households**  
 *Tools: Python, Seaborn, Pandas, Numpy*  
-*📅 December 2023*
+* December 2023*
 
 **Project Overview**:  
 - Conducted a comprehensive study on **electric energy pricing dynamics** across U.S. households.
@@ -135,7 +135,22 @@
 - 🔍 **Exploratory Data Analysis (EDA)**: Utilized **Seaborn** and **Pandas** for visualizations and statistical summaries to explore key patterns in energy pricing.
 - 🤖 **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary hyper-parameter tuning for optimization.
 - 📊 **Insightful Reporting**: Compiled findings
-___
+
+---
+
+### **Indian Premier League (IPL) Dashboard**  
+*Tools: Power BI, Microsoft Excel, Power Query*  
+*July 2024*
+
+**Project Overview**:  
+- Created a comprehensive and interactive **Power BI dashboard** to analyze the performance of teams and players over 17 IPL seasons.
+
+**Key Contributions**:
+- 🏏 **Data Transformation**: Transformed data from 17 seasons and 1106 matches of IPL Cricket into actionable insights using **Power Query**.
+- 📊 **Interactive Dashboard Design**: Designed a user-friendly interface with dynamic visualizations, highlighting key metrics like player performance, team statistics, and game outcomes.
+- 🔄 **Impactful Decision-Making**: Enabled stakeholders to make data-driven decisions by providing a clear and comprehensive view of the data through visual storytelling.
+
+---
 
 ## 🏆 Certifications
 
