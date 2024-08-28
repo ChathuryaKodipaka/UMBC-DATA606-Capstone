@@ -8,15 +8,14 @@
 [![University of Maryland, Baltimore County](https://img.shields.io/badge/University_of_Maryland_Baltimore_County-%230077B5.svg?style=for-the-badge&logo=university&logoColor=white)](https://umbc.edu)  
 **Master of Professional Studies in Data Science**  
 *GPA: 3.92/4.00 | Expected Graduation: December 2024*
-
 **Relevant Coursework**:  
-- Machine Learning  
-- Big Data Analytics  
-- Statistical Methods
+- 📊 **Machine Learning**
+- 🗄️ **Big Data Analytics**
+- 📈 **Statistical Methods**
 
 ---
 
-**[![Manipal Academy of Higher Education](https://img.shields.io/badge/Manipal_Academy_of_Higher_Education-%234CAF50.svg?style=for-the-badge)](https://manipal.edu)**
+[![Manipal Academy of Higher Education](https://img.shields.io/badge/Manipal_Academy_of_Higher_Education-%234CAF50.svg?style=for-the-badge)](https://manipal.edu)
 **Master of Science in BioStatistics**  
 *GPA: 3.12/4.00 | Graduated: September 2022*
 
