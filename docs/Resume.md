@@ -1,8 +1,7 @@
 <div align="center">
 
-# CHATHURYA GOUD KODIPAKA
-
 ![Headshot Photo](pic.png)
+# CHATHURYA GOUD KODIPAKA
 
 </div>
 
