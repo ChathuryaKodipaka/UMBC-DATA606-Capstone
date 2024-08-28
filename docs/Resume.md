@@ -4,7 +4,7 @@
 # CHATHURYA GOUD KODIPAKA
 
 </div>
-
+---
 ## 📚 Education
 
 ---
