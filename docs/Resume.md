@@ -121,6 +121,7 @@
 - 👩‍🏫 **Mentorship**: Collaborated under the guidance of **Marium Mehdi**, Department of Data Science, to refine modeling techniques and enhance outcomes.
 
 ---
+
 ### **Deciphering Electric Energy Pricing in U.S. Households**  
 *Tools: Python, Seaborn, Pandas, Numpy*  
 *📅 December 2023*
@@ -133,24 +134,8 @@
 - 🧹 **Data Cleaning & Preparation**: Performed extensive data cleaning and preprocessing to ensure data integrity for analysis.
 - 🔍 **Exploratory Data Analysis (EDA)**: Utilized **Seaborn** and **Pandas** for visualizations and statistical summaries to explore key patterns in energy pricing.
 - 🤖 **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary hyper-parameter tuning for optimization.
-- 📊 **Insightful Reporting**: Compiled findings into comprehensive reports, highlighting significant trends and potential factors influencing electric energy prices.
-
----
-
-### **Indian Premier League (IPL) Dashboard**  
-*Tools: Power BI, Microsoft Excel, Power Query*  
-*📅 July 2024*
-
-**Project Overview**:  
-- Created a comprehensive and interactive **Power BI dashboard** to analyze the performance of teams and players over 17 IPL seasons.
-
-**Key Contributions**:
-- 🏏 **Data Transformation**: Transformed data from 17 seasons and 1106 matches of IPL Cricket into actionable insights using **Power Query**.
-- 📊 **Interactive Dashboard Design**: Designed a user-friendly interface with dynamic visualizations, highlighting key metrics like player performance, team statistics, and game outcomes.
-- 🔄 **Impactful Decision-Making**: Enabled stakeholders to make data-driven decisions by providing a clear and comprehensive view of the data through visual storytelling.
-
-
----
+- 📊 **Insightful Reporting**: Compiled findings
+___
 
 ## 🏆 Certifications
 
