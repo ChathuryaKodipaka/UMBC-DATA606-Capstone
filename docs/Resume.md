@@ -5,7 +5,7 @@
 
 ## 📚 Education
 
-[![University of Maryland, Baltimore County](https://img.shields.io/badge/University_of_Maryland_Baltimore_County-%230077B5.svg?style=for-the-badge&logo=university&logoColor=white)](https://umbc.edu)  
+[**UNIVERSITY OF MARYLAND BALTIMORE COUNTY**](https://www.umbc.edu/)  
 **Master of Professional Studies in Data Science**  
 *GPA: 3.92/4.00 | Expected Graduation: December 2024*
 
@@ -16,8 +16,7 @@
 
 ---
 
-[![Manipal Academy of Higher Education](https://img.shields.io/badge/Manipal_Academy_of_Higher_Education-%234CAF50.svg?style=for-the-badge)](https://manipal.edu) 
-
+[**MANIPAL ACADEMY OF HIGHER EDUCATION**](https://manipal.edu/)  
 **Master of Science in BioStatistics**  
 *GPA: 3.12/4.00 | Graduated: September 2022*
 
@@ -29,7 +28,7 @@
 
 ---
 
-[![St. Francis College for Women](https://img.shields.io/badge/St_Francis_College_for_Women-%2300599C.svg?style=for-the-badge)](https://www.sfc.ac.in)  
+[**ST. FRANCIS COLLEGE FOR WOMEN**](https://www.sfc.ac.in/)  
 **Bachelor of Science in Mathematics, Statistics, Computer Science (Triple Major)**  
 *GPA: 3.78/4.00 | Graduated: November 2020*
 
