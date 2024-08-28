@@ -7,17 +7,30 @@
 </div>
 
 ---
-
 ## 📚 Education
 
-### Master of Professional Studies in Data Science
-**University of Maryland, Baltimore County**  
-(Expected Graduation: December 2025)
+---
 
-### Bachelor of Technology in Computer Science
-**University of Hyderabad**  
+### 🎓 Master of Professional Studies in Data Science
+**University of Maryland, Baltimore County**  
+*Expected Graduation: December 2025*
+
+- **Relevant Coursework**: Machine Learning, Big Data Analytics, Statistical Methods
+- **Activities**: Data Science Club, Machine Learning Research Group
+- **GPA**: 3.9/4.0
 
 ---
+
+### 🎓 Bachelor of Technology in Computer Science
+**University of Hyderabad**  
+*Graduated: May 2022*
+
+- **Relevant Coursework**: Algorithms, Data Structures, Database Management Systems
+- **Activities**: Coding Club President, Hackathon Participant
+- **GPA**: 9.2/10
+
+---
+
 
 ## 💼 Experience
 
