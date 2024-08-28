@@ -5,23 +5,43 @@
 
 ## 📚 Education
 
-### 🎓 Master of Professional Studies in Data Science
-**University of Maryland, Baltimore County**  
-*Expected Graduation: December 2025*
+## 🎓 Education
 
-- **Relevant Coursework**: Machine Learning, Big Data Analytics, Statistical Methods
-- **Activities**: Data Science Club, Machine Learning Research Group
-- **GPA**: 3.9/4.0
+![University of Maryland, Baltimore County](https://img.shields.io/badge/University_of_Maryland_Baltimore_County-%230077B5.svg?style=for-the-badge&logo=university&logoColor=white)
+![Master of Professional Studies in Data Science](https://img.shields.io/badge/Master_of_Professional_Studies_in_Data_Science-%234CAF50.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI3LjUwMzUgNi44MTAyNEwyNC41NTI0IDUuMjI1ODZMMjIuOTYwNiA4LjI3MzY3TDE2LjQ1NDYgNC40ODQxNEwxMS40NTQ2IDEwLjA2MTFMMTEuNjM1OCAxMy40NDYyTDE1Ljk4OTggMTEuMzg2TDExLjUxMjUgMTkuNzA3OUwxNS45ODk4IDE3LjA3MjNMOS45Mjg3NyAyNi4xNTY3TDcuMzcyMzcgMjQuMzg0TDEzLjEyMzcgMTMuNzg1OEwxNy41MTE4IDE1LjczN0wxNi4yMDA4IDI1Ljk0ODJMOS41OTAxNyAyOC45MjcyTDEyLjc5MDMgMzAuNzY4TDE5LjM5ODggMjguODExNUwyMC42ODMgMTguNTkxMkwyNS4xNzY0IDIwLjYzNjRMMS45MTk3NSA0LjM3NjAxTDQuMzYxMTYgNC4zNzYwMUwyNi4yMTQ0IDIyLjE2N0wxNy4xOTUgMjYuNjM1NUwxNi4zNTg1IDI1LjYyN0wxNi44MzU4IDE2Ljk0MTFMOS43ODkxMSAxOS44ODU2TDEwLjc1MjYgMTMuNDQ2MkwxNy41MDM1IDYuODEwMjRaIiBmaWxsPSIjZmZmZmZmIi8+CjxwYXRoIGQ9Ik0yMC4yMTY4IDEyLjM2NzZDMTkuNTg4IDEyLjM2NzYgMTkuMTEzNSAxMi45NDEgMTkuMTEzNSAxMy41NjcyVjE5LjM1NzNIMTQuNjA5M0wxNS4wMTU4IDE2LjM3NTJIMTguNjk4N0wxNi4xNTYgNy43OTQxNkwyMC4yMTY4IDEyLjM2NzZaIiBmaWxsPSIjRkZGIi8+Cjwvc3ZnPgo=)
+![Expected Graduation](https://img.shields.io/badge/Expected_Graduation-December_2025-%234CAF50?style=for-the-badge)
+
+**Relevant Coursework**:  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-%231D9BF0.svg?style=for-the-badge)  
+![Big Data Analytics](https://img.shields.io/badge/Big_Data_Analytics-%231D9BF0.svg?style=for-the-badge)  
+![Statistical Methods](https://img.shields.io/badge/Statistical_Methods-%231D9BF0.svg?style=for-the-badge)
+
+**Activities**:  
+![Data Science Club](https://img.shields.io/badge/Data_Science_Club-%23FF5733.svg?style=for-the-badge)  
+![Machine Learning Research Group](https://img.shields.io/badge/Machine_Learning_Research_Group-%23FF5733.svg?style=for-the-badge)
+
+**GPA**:  
+![GPA 3.9/4.0](https://img.shields.io/badge/GPA-3.9%2F4.0-%234CAF50?style=for-the-badge)
 
 ---
 
-### 🎓 Bachelor of Technology in Computer Science
-**University of Hyderabad**  
-*Graduated: May 2022*
+![University of Hyderabad](https://img.shields.io/badge/University_of_Hyderabad-%2300599C.svg?style=for-the-badge&logo=university&logoColor=white)
+![Bachelor of Technology in Computer Science](https://img.shields.io/badge/Bachelor_of_Technology_in_Computer_Science-%234CAF50.svg?style=for-the-badge&logo=tech)
+![Graduated](https://img.shields.io/badge/Graduated-May_2022-%234CAF50?style=for-the-badge)
 
-- **Relevant Coursework**: Algorithms, Data Structures, Database Management Systems
-- **Activities**: Coding Club President, Hackathon Participant
-- **GPA**: 9.2/10
+**Relevant Coursework**:  
+![Algorithms](https://img.shields.io/badge/Algorithms-%231D9BF0.svg?style=for-the-badge)  
+![Data Structures](https://img.shields.io/badge/Data_Structures-%231D9BF0.svg?style=for-the-badge)  
+![Database Management Systems](https://img.shields.io/badge/Database_Management_Systems-%231D9BF0.svg?style=for-the-badge)
+
+**Activities**:  
+![Coding Club President](https://img.shields.io/badge/Coding_Club_President-%23FF5733.svg?style=for-the-badge)  
+![Hackathon Participant](https://img.shields.io/badge/Hackathon_Participant-%23FF5733.svg?style=for-the-badge)
+
+**GPA**:  
+![GPA 9.2/10](https://img.shields.io/badge/GPA-9.2%2F10-%234CAF50?style=for-the-badge)
+
+---
 
 ---
 
