@@ -1,6 +1,6 @@
 <div align="center">
 
-# Chathurya Goud Kodipaka
+# CHATHURYA GOUD KODIPAKA
 
 ![Headshot Photo](pic.png)
 
