@@ -57,6 +57,44 @@
 
 ---
 
+## 💻 Skills
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![SAS](https://img.shields.io/badge/sas-%234B0082.svg?style=for-the-badge&logo=sas&logoColor=white) 
+![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
+![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%231f77b4.svg?style=for-the-badge&logo=seaborn&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white) 
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-%23800000.svg?style=for-the-badge&logo=python&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-%23ffffff.svg?style=for-the-badge&logo=OpenCV&logoColor=black) 
+![Databricks](https://img.shields.io/badge/Databricks-%23FF5733.svg?style=for-the-badge&logo=databricks&logoColor=white) 
+![Lucidchart](https://img.shields.io/badge/Lucidchart-%23FBB040.svg?style=for-the-badge&logo=lucidchart&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Hadoop](https://img.shields.io/badge/Hadoop-%232DC4CC.svg?style=for-the-badge&logo=apachehadoop&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=for-the-badge&logo=nosql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Hive](https://img.shields.io/badge/Hive-%23FF5733.svg?style=for-the-badge&logo=apachehive&logoColor=white) 
+
+---
+
 ## 🏆 Certifications
 
 - **Google Advanced Data Analytics Professional Certificate** - Google through Coursera
@@ -89,17 +127,6 @@
 
 ---
 
-## 🛠️ Skills
-
-- **Programming Languages**: CRAN R 4.1 (Expert), Python (Expert), SAS, SQL, Java, C, HTML, PHP, JavaScript, CSS
-- **Libraries**: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch, TensorFlow, PySpark, Beautiful Soup, OpenCV
-- **Tools**: Excel, IBM SPSS 26.0, LaTeX, Power BI, Tableau, Databricks, Lucidchart, Jupyter Notebook, Git
-- **Big Data & Database Tools**: Hadoop, Apache Spark, MongoDB, NoSQL, MySQL, Hive
-- **AI/ML**: Supervised and Unsupervised Machine Learning, Deep Learning, Large Language Models (LLMs), NLP
-- **Mathematical Skills**: Linear Algebra, Probability Theory, Calculus, Parametric and Non-Parametric Statistics, Stochastic Processes, Operations Research, Regression, Bayesian Modelling, Multivariate Regression, Designs of Experiment
-
----
-
 ## 🎯 Personal Interests
 
 - **Artificial Intelligence** and its applications in Healthcare
@@ -122,37 +149,6 @@ I'm currently in my last semester in data science, focusing on in-depth ML model
 
 ## 💬 Ask me about
 My experience with statistical analysis in clinical trials and machine learning in big data environments.
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chathuryagoud)
-
----
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
