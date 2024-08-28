@@ -5,86 +5,98 @@
 
 ## 📚 Education
 
-## 🎓 Education
-
-![University of Maryland, Baltimore County](https://img.shields.io/badge/University_of_Maryland_Baltimore_County-%230077B5.svg?style=for-the-badge&logo=university&logoColor=white)
-![Master of Professional Studies in Data Science](https://img.shields.io/badge/Master_of_Professional_Studies_in_Data_Science-%234CAF50.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI3LjUwMzUgNi44MTAyNEwyNC41NTI0IDUuMjI1ODZMMjIuOTYwNiA4LjI3MzY3TDE2LjQ1NDYgNC40ODQxNEwxMS40NTQ2IDEwLjA2MTFMMTEuNjM1OCAxMy40NDYyTDE1Ljk4OTggMTEuMzg2TDExLjUxMjUgMTkuNzA3OUwxNS45ODk4IDE3LjA3MjNMOS45Mjg3NyAyNi4xNTY3TDcuMzcyMzcgMjQuMzg0TDEzLjEyMzcgMTMuNzg1OEwxNy41MTE4IDE1LjczN0wxNi4yMDA4IDI1Ljk0ODJMOS41OTAxNyAyOC45MjcyTDEyLjc5MDMgMzAuNzY4TDE5LjM5ODggMjguODExNUwyMC42ODMgMTguNTkxMkwyNS4xNzY0IDIwLjYzNjRMMS45MTk3NSA0LjM3NjAxTDQuMzYxMTYgNC4zNzYwMUwyNi4yMTQ0IDIyLjE2N0wxNy4xOTUgMjYuNjM1NUwxNi4zNTg1IDI1LjYyN0wxNi44MzU4IDE2Ljk0MTFMOS43ODkxMSAxOS44ODU2TDEwLjc1MjYgMTMuNDQ2MkwxNy41MDM1IDYuODEwMjRaIiBmaWxsPSIjZmZmZmZmIi8+CjxwYXRoIGQ9Ik0yMC4yMTY4IDEyLjM2NzZDMTkuNTg4IDEyLjM2NzYgMTkuMTEzNSAxMi45NDEgMTkuMTEzNSAxMy41NjcyVjE5LjM1NzNIMTQuNjA5M0wxNS4wMTU4IDE2LjM3NTJIMTguNjk4N0wxNi4xNTYgNy43OTQxNkwyMC4yMTY4IDEyLjM2NzZaIiBmaWxsPSIjRkZGIi8+Cjwvc3ZnPgo=)
-![Expected Graduation](https://img.shields.io/badge/Expected_Graduation-December_2025-%234CAF50?style=for-the-badge)
+![University of Maryland, Baltimore County](https://img.shields.io/badge/University_of_Maryland_Baltimore_County-%230077B5.svg?style=for-the-badge&logo=university&logoColor=white)  
+**Master of Professional Studies in Data Science**  
+*GPA: 3.92/4.00 | Expected Graduation: December 2024*
 
 **Relevant Coursework**:  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-%231D9BF0.svg?style=for-the-badge)  
-![Big Data Analytics](https://img.shields.io/badge/Big_Data_Analytics-%231D9BF0.svg?style=for-the-badge)  
-![Statistical Methods](https://img.shields.io/badge/Statistical_Methods-%231D9BF0.svg?style=for-the-badge)
-
-**Activities**:  
-![Data Science Club](https://img.shields.io/badge/Data_Science_Club-%23FF5733.svg?style=for-the-badge)  
-![Machine Learning Research Group](https://img.shields.io/badge/Machine_Learning_Research_Group-%23FF5733.svg?style=for-the-badge)
-
-**GPA**:  
-![GPA 3.9/4.0](https://img.shields.io/badge/GPA-3.9%2F4.0-%234CAF50?style=for-the-badge)
+- Machine Learning  
+- Big Data Analytics  
+- Statistical Methods
 
 ---
 
-![University of Hyderabad](https://img.shields.io/badge/University_of_Hyderabad-%2300599C.svg?style=for-the-badge&logo=university&logoColor=white)
-![Bachelor of Technology in Computer Science](https://img.shields.io/badge/Bachelor_of_Technology_in_Computer_Science-%234CAF50.svg?style=for-the-badge&logo=tech)
-![Graduated](https://img.shields.io/badge/Graduated-May_2022-%234CAF50?style=for-the-badge)
+![Manipal Academy of Higher Education](https://img.shields.io/badge/Manipal_Academy_of_Higher_Education-%234CAF50.svg?style=for-the-badge)  
+**Master of Science in BioStatistics**  
+*GPA: 3.12/4.00 | Graduated: September 2022*
 
 **Relevant Coursework**:  
-![Algorithms](https://img.shields.io/badge/Algorithms-%231D9BF0.svg?style=for-the-badge)  
-![Data Structures](https://img.shields.io/badge/Data_Structures-%231D9BF0.svg?style=for-the-badge)  
-![Database Management Systems](https://img.shields.io/badge/Database_Management_Systems-%231D9BF0.svg?style=for-the-badge)
-
-**Activities**:  
-![Coding Club President](https://img.shields.io/badge/Coding_Club_President-%23FF5733.svg?style=for-the-badge)  
-![Hackathon Participant](https://img.shields.io/badge/Hackathon_Participant-%23FF5733.svg?style=for-the-badge)
-
-**GPA**:  
-![GPA 9.2/10](https://img.shields.io/badge/GPA-9.2%2F10-%234CAF50?style=for-the-badge)
+- Bayesian Modeling  
+- Clinical Trial Design  
+- Statistical Computing
 
 ---
+
+![St. Francis College for Women](https://img.shields.io/badge/St_Francis_College_for_Women-%2300599C.svg?style=for-the-badge)  
+**Bachelor of Science in Mathematics, Statistics, Computer Science (Triple Major)**  
+*GPA: 3.78/4.00 | Graduated: November 2020*
+
+**Relevant Coursework**:  
+- Algorithms  
+- Data Structures  
+- Database Management Systems
 
 ---
 
 ## 💼 Experience
 
-### Data Analyst | USC Transportation Department
-*May 2024 – Present, Los Angeles, CA*
+### Math Coach (Tutor) | UMBC Reach Together Tutoring Program, Baltimore City Public Schools
+*January 2024 – Present, Baltimore, MD*
 
-- Managed large datasets in Excel, ensuring data integrity and accuracy.
-- Conducted data analysis using Python and Excel to improve transportation processes.
-- Provided customer service and resolved transportation-related issues.
+- Organized and coordinated collaborative programs with Westport Elementary School, enhancing student development activities.
+- Led weekly training sessions for innovative teaching strategies and effective communication skills, improving the learning experience for peer tutors.
+- Instructed and mentored a diverse group of 2nd and 8th grade students.
 
-### Data Scientist and Data Engineer | Cognizant Technology Solutions
-*July 2022 – January 2024, Hyderabad, India*
+### Biostatistics Intern | GlaxoSmithKline
+*January 2022 – June 2022, Karnataka, India*
 
-- Led the development of machine learning models for ICICI Lombard Fast Track.
-- Conducted extensive data preprocessing and feature engineering.
-- Presented findings to stakeholders, enhancing strategic decision-making.
+- Conducted a thorough expository study to develop a Bayesian Model Comparison for phase II clinical trial dose-response research.
+- Evaluated the selection of models between Frequentist and Bayesian techniques, incorporating historical data, and analyzing multiple dose levels.
+- Enhanced model accuracy and dependability using R for advanced statistical analysis on simulated data using mixed priors.
+- Improved the presentation and analysis of clinical trial data by leveraging SAS for data wrangling tasks, including creating mock shells, SDTM, and ADAM datasets.
 
 ---
 
 ## 🏆 Certifications
 
-- **Certified Data Scientist (CDS)** - Data Science Council of America
-- **AWS Certified Solutions Architect – Associate**
+- **Google Advanced Data Analytics Professional Certificate** - Google through Coursera
+- **Deep Learning Specialization** - DeepLearning.AI through Coursera
+- **Getting Started with SAS Programming** - SAS through Coursera
+- **Getting Started with Power BI Desktop** - Coursera Project Network
 
 ---
 
 ## 💻 Projects
 
-### Deep Learning for Forensics
-Explored the use of deep learning for fingerprint analysis in crime scene investigations. Developed models to match and enhance fingerprint quality.
+### Big Data Analytics for Diabetes Risk Assessment | PySpark, Python, Tableau, Databricks
+*November 2023*
 
-### Instagram Reels for Mangatrai Pearls
-Created engaging social media content to boost brand visibility and drive customer engagement.
+- Focused on data cleaning, visualizations, data modeling, and analysis for diabetes risk assessment.
+- Presented conclusions using machine learning models and visualizations, under the guidance of Marium Mehdi, Department of Data Science.
+
+### Space Agency Operations Forecasting | Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Beautifulsoup
+*December 2023*
+
+- Web scraped data from over 256 web pages using Python with Beautiful Soup.
+- Conducted data cleaning with Pandas and NumPy followed by visualizations with Matplotlib and Seaborn.
+- Performed statistical analysis using scikit-learn predictive models.
+
+### Indian Premier League (IPL) Dashboard | Power BI, Microsoft Excel, Power Query
+*July 2024*
+
+- Developed an advanced Power BI dashboard that transformed 17 seasons and 1106 matches of IPL Cricket data into actionable insights.
+- Created an interactive and user-friendly interface featuring dynamic visualizations that reveal key performance metrics, trends, and statistics for teams and players.
 
 ---
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, SQL, R, Scala
-- **Tools**: Apache Spark, TensorFlow, PyTorch, Hadoop
-- **Soft Skills**: Communication, Problem-Solving, Team Collaboration
+- **Programming Languages**: CRAN R 4.1 (Expert), Python (Expert), SAS, SQL, Java, C, HTML, PHP, JavaScript, CSS
+- **Libraries**: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch, TensorFlow, PySpark, Beautiful Soup, OpenCV
+- **Tools**: Excel, IBM SPSS 26.0, LaTeX, Power BI, Tableau, Databricks, Lucidchart, Jupyter Notebook, Git
+- **Big Data & Database Tools**: Hadoop, Apache Spark, MongoDB, NoSQL, MySQL, Hive
+- **AI/ML**: Supervised and Unsupervised Machine Learning, Deep Learning, Large Language Models (LLMs), NLP
+- **Mathematical Skills**: Linear Algebra, Probability Theory, Calculus, Parametric and Non-Parametric Statistics, Stochastic Processes, Operations Research, Regression, Bayesian Modelling, Multivariate Regression, Designs of Experiment
 
 ---
 
@@ -97,8 +109,9 @@ Created engaging social media content to boost brand visibility and drive custom
 
 ## 📞 Contact Information
 
-- **Email**: begudem@usc.edu
-- **Phone**: (213) 756-9701
+- **Email**: [at39250@umbc.edu](mailto:at39250@umbc.edu)
+- **Phone**: (443) 830-7531
+- **LinkedIn**: [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud)
 - **GitHub**: [github.com/Chathurya2024](https://github.com/Chathurya2024)
 
 ---
@@ -114,7 +127,7 @@ My experience with statistical analysis in clinical trials and machine learning 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ChathuryaGoud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chathuryagoud)
 
 ---
 
