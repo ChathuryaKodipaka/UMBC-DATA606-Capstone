@@ -63,9 +63,6 @@
 - 🎯 **Enhanced model accuracy** and dependability using R for advanced statistical analysis on simulated data using mixed priors.
 - 📝 **Improved the presentation and analysis** of clinical trial data by leveraging SAS for data wrangling tasks, including creating mock shells, SDTM, and ADAM datasets.
 
----
-
-
 
 ---
 
@@ -106,6 +103,54 @@
 ![Hive](https://img.shields.io/badge/Hive-%23FF5733.svg?style=for-the-badge&logo=apachehive&logoColor=white) 
 
 ---
+## 💻 Projects
+
+---
+
+### **Big Data Analytics for Diabetes Risk Assessment**  
+*Tools: PySpark, Python, Tableau, Databricks*  
+*📅 November 2023*
+
+**Project Overview**:  
+- Conducted comprehensive **data cleaning**, **visualizations**, and **data modeling** for diabetes risk assessment.
+- Leveraged **machine learning models** to analyze risk factors and predict potential diabetes cases.
+
+**Key Contributions**:
+- 🧼 **Data Pipeline Design**: Designed a robust data pipeline for preprocessing and handling large datasets.
+- 📊 **Visual Insights**: Developed insightful visualizations to communicate findings and patterns effectively.
+- 👩‍🏫 **Mentorship**: Collaborated under the guidance of **Marium Mehdi**, Department of Data Science, to refine modeling techniques and enhance outcomes.
+
+---
+
+### **Space Agency Operations Forecasting**  
+*Tools: Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Beautiful Soup*  
+*📅 December 2023*
+
+**Project Overview**:  
+- Developed a forecasting model for space agency operations by integrating data from multiple sources.
+
+**Key Contributions**:
+- 🌐 **Web Scraping Mastery**: Automated data extraction from over **256 web pages**, including nested child pages, using **Beautiful Soup**.
+- 🧽 **Data Wrangling**: Performed meticulous data cleaning using **Pandas** and **NumPy**, ensuring accuracy and consistency.
+- 📈 **Advanced Visualizations**: Utilized **Matplotlib**, **Seaborn**, and **Plotly** for dynamic visualizations, presenting key trends and predictions.
+- 🔍 **Predictive Modeling**: Implemented **scikit-learn** to develop and evaluate forecasting models.
+
+---
+
+### **Indian Premier League (IPL) Dashboard**  
+*Tools: Power BI, Microsoft Excel, Power Query*  
+*📅 July 2024*
+
+**Project Overview**:  
+- Created a comprehensive and interactive **Power BI dashboard** to analyze the performance of teams and players over 17 IPL seasons.
+
+**Key Contributions**:
+- 🏏 **Data Transformation**: Transformed data from 17 seasons and 1106 matches of IPL Cricket into actionable insights using **Power Query**.
+- 📊 **Interactive Dashboard Design**: Designed a user-friendly interface with dynamic visualizations, highlighting key metrics like player performance, team statistics, and game outcomes.
+- 🔄 **Impactful Decision-Making**: Enabled stakeholders to make data-driven decisions by providing a clear and comprehensive view of the data through visual storytelling.
+
+
+---
 
 ## 🏆 Certifications
 
@@ -113,56 +158,17 @@
 - **Deep Learning Specialization** - DeepLearning.AI through Coursera
 - **Getting Started with SAS Programming** - SAS through Coursera
 - **Getting Started with Power BI Desktop** - Coursera Project Network
-
 ---
-
-## 💻 Projects
-
-### Big Data Analytics for Diabetes Risk Assessment | PySpark, Python, Tableau, Databricks
-*November 2023*
-
-- Focused on data cleaning, visualizations, data modeling, and analysis for diabetes risk assessment.
-- Presented conclusions using machine learning models and visualizations, under the guidance of Marium Mehdi, Department of Data Science.
-
-### Space Agency Operations Forecasting | Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Beautifulsoup
-*December 2023*
-
-- Web scraped data from over 256 web pages using Python with Beautiful Soup.
-- Conducted data cleaning with Pandas and NumPy followed by visualizations with Matplotlib and Seaborn.
-- Performed statistical analysis using scikit-learn predictive models.
-
-### Indian Premier League (IPL) Dashboard | Power BI, Microsoft Excel, Power Query
-*July 2024*
-
-- Developed an advanced Power BI dashboard that transformed 17 seasons and 1106 matches of IPL Cricket data into actionable insights.
-- Created an interactive and user-friendly interface featuring dynamic visualizations that reveal key performance metrics, trends, and statistics for teams and players.
-
----
-
-## 🎯 Personal Interests
-
-- **Artificial Intelligence** and its applications in Healthcare
-- **Community Volunteering**: Providing free education to underprivileged students
-
----
-
 ## 📞 Contact Information
 
-- **Email**: [at39250@umbc.edu](mailto:at39250@umbc.edu)
-- **Phone**: (443) 830-7531
-- **LinkedIn**: [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud)
-- **GitHub**: [github.com/Chathurya2024](https://github.com/Chathurya2024)
+| 📧 **Email**       | [at39250@umbc.edu](mailto:at39250@umbc.edu)           |
+|--------------------|-------------------------------------------------------|
+| 📱 **Phone**       | (443) 830-7531                                        |
+| 💼 **LinkedIn**    | [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud) |
+| 👨‍💻 **GitHub**     | [github.com/Chathurya2024](https://github.com/Chathurya2024)         |
 
 ---
 
-## 💫 About Me
-
-I'm currently in my last semester in data science, focusing on in-depth ML models, including Deep Learning and Large Language Models (LLMs).
-
-## 💬 Ask me about
-My experience with statistical analysis in clinical trials and machine learning in big data environments.
-
----
 
 ## 📊 GitHub Stats
 
