@@ -1,10 +1,10 @@
-# Full Name
+# CHATHURYA GOUD KODIPAKA
 
 ![Your Headshot Photo](pic.png)
 
 ## Contact Information
 - **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/chathuryagoud)
 - **GitHub:** [Your GitHub Profile](https://github.com/your-profile)
 
 ## Education
