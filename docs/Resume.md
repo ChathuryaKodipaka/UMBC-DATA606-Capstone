@@ -4,7 +4,7 @@
 
 ## 📞 Contact Information
 
-| 📧 **Email**       | [at39250@umbc.edu](mailto:at39250@umbc.edu)                           |
+| 📧 **Email**       |[at39250@umbc.edu](mailto:at39250@umbc.edu)                           |
 |--------------------|-----------------------------------------------------------------------|
 | 📱 **Phone**       | (443) 830-7531                                                        |
 | 💼 **LinkedIn**    | [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud) |
