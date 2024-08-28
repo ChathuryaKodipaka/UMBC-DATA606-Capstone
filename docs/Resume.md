@@ -2,6 +2,16 @@
 
 ![Your Headshot Photo](pic.png)
 
+
+<p align="center">
+  <img src="pic.png" alt="Your Headshot Photo">
+</p>
+
+<p align="center">
+  <strong>CHATHURYA GOUD KODIPAKA</strong>
+</p>
+
+
 ## Contact Information
 - **Email:** your.email@example.com
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/chathuryagoud)
