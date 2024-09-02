@@ -2,26 +2,26 @@
 ![Headshot Photo](pic.png)
 ---
 
-## 📞 Contact Information
+## Contact Information
 
 | 📧 **Email**       |[at39250@umbc.edu](mailto:at39250@umbc.edu)                           |
 |--------------------|-----------------------------------------------------------------------|
-| 📱 **Phone**       | (443) 830-7531                                                        |
-| 💼 **LinkedIn**    | [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud) |
-| 👨‍💻 **GitHub**     | [github.com/Chathurya2024](https://github.com/Chathurya2024)           |
+|**Phone**       | (443) 830-7531                                                        |
+|**LinkedIn**    | [linkedin.com/in/chathuryagoud](https://linkedin.com/in/chathuryagoud) |
+|**GitHub**     | [github.com/Chathurya2024](https://github.com/Chathurya2024)           |
 
 ---
 
-## 📚 Education
+## Education
 
 [**UNIVERSITY OF MARYLAND BALTIMORE COUNTY**](https://www.umbc.edu/)  
 **Master of Professional Studies in Data Science**  
 *GPA: 3.92/4.00 | Expected Graduation: December 2024*
 
 **Relevant Coursework**:  
-- 📊 **Machine Learning**
-- 🗄️ **Big Data Analytics**
-- 📈 **Statistical Methods**
+- **Machine Learning**
+- **Big Data Analytics**
+- **Statistical Methods**
 
 ---
 
@@ -30,9 +30,9 @@
 *GPA: 3.12/4.00 | Graduated: September 2022*
 
 **Relevant Coursework**:  
-- 📉 **Bayesian Modeling**
-- 🧪 **Clinical Trial Design**
-- 🔢 **Statistical Computing**
+- **Bayesian Modeling**
+- **Clinical Trial Design**
+- **Statistical Computing**
 
 
 ---
@@ -42,14 +42,14 @@
 *GPA: 3.78/4.00 | Graduated: November 2020*
 
 **Relevant Coursework**:  
-- 📐 **Algorithms**
-- 🔗 **Data Structures**
-- 💾 **Database Management Systems**
+- **Algorithms**
+- **Data Structures**
+- **Database Management Systems**
 
 
 ---
 
-## 💼 Experience
+## Experience
 
 ---
 
@@ -57,9 +57,9 @@
 [**UMBC Reach Together Tutoring Program, Baltimore City Public Schools**](https://reachtogether.umbc.edu/)  
 *January 2024 – Present | Baltimore, MD*
 
-- 📚 **Organized and coordinated** collaborative programs with Westport Elementary School, enhancing student development activities.
-- 🧠 **Led weekly training sessions** for innovative teaching strategies and effective communication skills, improving the learning experience for peer tutors.
-- 👩‍🏫 **Instructed and mentored** a diverse group of 2nd and 8th grade students.
+- **Organized and coordinated** collaborative programs with Westport Elementary School, enhancing student development activities.
+- **Led weekly training sessions** for innovative teaching strategies and effective communication skills, improving the learning experience for peer tutors.
+- **Instructed and mentored** a diverse group of 2nd and 8th grade students.
 
 ---
 
@@ -67,15 +67,15 @@
 [**GlaxoSmithKline**](https://www.gsk.com/)  
 *January 2022 – June 2022 | Karnataka, India*
 
-- 🧬 **Conducted a thorough expository study** to develop a Bayesian Model Comparison for phase II clinical trial dose-response research.
-- 📊 **Evaluated the selection of models** between Frequentist and Bayesian techniques, incorporating historical data, and analyzing multiple dose levels.
-- 🎯 **Enhanced model accuracy** and dependability using R for advanced statistical analysis on simulated data using mixed priors.
-- 📝 **Improved the presentation and analysis** of clinical trial data by leveraging SAS for data wrangling tasks, including creating mock shells, SDTM, and ADAM datasets.
+- **Conducted a thorough expository study** to develop a Bayesian Model Comparison for phase II clinical trial dose-response research.
+- **Evaluated the selection of models** between Frequentist and Bayesian techniques, incorporating historical data, and analyzing multiple dose levels.
+- **Enhanced model accuracy** and dependability using R for advanced statistical analysis on simulated data using mixed priors.
+- **Improved the presentation and analysis** of clinical trial data by leveraging SAS for data wrangling tasks, including creating mock shells, SDTM, and ADAM datasets.
 
 
 ---
 
-## 💻 Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -112,7 +112,7 @@
 ![Hive](https://img.shields.io/badge/Hive-%23FF5733.svg?style=for-the-badge&logo=apachehive&logoColor=white) 
 
 ---
-## 💻 Projects
+## Projects
 
 ---
 
@@ -125,9 +125,9 @@
 - Leveraged **machine learning models** to analyze risk factors and predict potential diabetes cases.
 
 **Key Contributions**:
-- 🧼 **Data Pipeline Design**: Designed a robust data pipeline for preprocessing and handling large datasets.
-- 📊 **Visual Insights**: Developed insightful visualizations to communicate findings and patterns effectively.
-- 👩‍🏫 **Mentorship**: Collaborated under the guidance of **Marium Mehdi**, Department of Data Science, to refine modeling techniques and enhance outcomes.
+- **Data Pipeline Design**: Designed a robust data pipeline for preprocessing and handling large datasets.
+- **Visual Insights**: Developed insightful visualizations to communicate findings and patterns effectively.
+- **Mentorship**: Collaborated under the guidance of **Marium Mehdi**, Department of Data Science, to refine modeling techniques and enhance outcomes.
 
 ---
 
@@ -140,10 +140,10 @@
 - Guided by **Masoud Soroush**, Professor, Department of Data Science, to uncover valuable insights into energy pricing patterns.
 
 **Key Contributions**:
-- 🧹 **Data Cleaning & Preparation**: Performed extensive data cleaning and preprocessing to ensure data integrity for analysis.
-- 🔍 **Exploratory Data Analysis (EDA)**: Utilized **Seaborn** and **Pandas** for visualizations and statistical summaries to explore key patterns in energy pricing.
-- 🤖 **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary hyper-parameter tuning for optimization.
-- 📊 **Insightful Reporting**: Compiled findings
+- **Data Cleaning & Preparation**: Performed extensive data cleaning and preprocessing to ensure data integrity for analysis.
+- **Exploratory Data Analysis (EDA)**: Utilized **Seaborn** and **Pandas** for visualizations and statistical summaries to explore key patterns in energy pricing.
+- **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary hyper-parameter tuning for optimization.
+- **Insightful Reporting**: Compiled findings
 
 ---
 
@@ -155,13 +155,13 @@
 - Created a comprehensive and interactive **Power BI dashboard** to analyze the performance of teams and players over 17 IPL seasons.
 
 **Key Contributions**:
-- 🏏 **Data Transformation**: Transformed data from 17 seasons and 1106 matches of IPL Cricket into actionable insights using **Power Query**.
-- 📊 **Interactive Dashboard Design**: Designed a user-friendly interface with dynamic visualizations, highlighting key metrics like player performance, team statistics, and game outcomes.
-- 🔄 **Impactful Decision-Making**: Enabled stakeholders to make data-driven decisions by providing a clear and comprehensive view of the data through visual storytelling.
+- **Data Transformation**: Transformed data from 17 seasons and 1106 matches of IPL Cricket into actionable insights using **Power Query**.
+- **Interactive Dashboard Design**: Designed a user-friendly interface with dynamic visualizations, highlighting key metrics like player performance, team statistics, and game outcomes.
+- **Impactful Decision-Making**: Enabled stakeholders to make data-driven decisions by providing a clear and comprehensive view of the data through visual storytelling.
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 - **Google Advanced Data Analytics Professional Certificate** - Google through Coursera
 - **Deep Learning Specialization** - DeepLearning.AI through Coursera
@@ -171,7 +171,7 @@
 ---
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathurya2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathurya2024&theme=dark&hide_border=false)
