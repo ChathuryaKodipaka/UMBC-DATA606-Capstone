@@ -74,7 +74,6 @@
 **Key Contributions**:
 - **Data Pipeline Design**: Designed a robust data pipeline for preprocessing and handling large datasets.
 - **Visual Insights**: Developed insightful visualizations to communicate findings and patterns effectively.
-- **Mentorship**: Collaborated under the guidance of **Marium Mehdi**, Department of Data Science, to refine modeling techniques and enhance outcomes.
 
 ---
 
@@ -89,8 +88,7 @@
 **Key Contributions**:
 - **Data Cleaning & Preparation**: Performed extensive data cleaning and preprocessing to ensure data integrity for analysis.
 - **Exploratory Data Analysis (EDA)**: Utilized **Seaborn** and **Pandas** for visualizations and statistical summaries to explore key patterns in energy pricing.
-- **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary hyper-parameter tuning for optimization.
-- **Insightful Reporting**: Compiled findings.
+- **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary 
 
 ---
 
