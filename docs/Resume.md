@@ -160,19 +160,3 @@
 - **Impactful Decision-Making**: Enabled stakeholders to make data-driven decisions by providing a clear and comprehensive view of the data through visual storytelling.
 
 ---
-
-## Certifications
-
-- **Google Advanced Data Analytics Professional Certificate** - Google through Coursera
-- **Deep Learning Specialization** - DeepLearning.AI through Coursera
-- **Getting Started with SAS Programming** - SAS through Coursera
-- **Getting Started with Power BI Desktop** - Coursera Project Network
-
----
-
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chathurya2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chathurya2024&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chathurya2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
