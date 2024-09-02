@@ -40,16 +40,16 @@
 **Math Coach (Tutor)**  
 *UMBC Reach Together Tutoring Program | Jan 2024 – Present | Baltimore, MD*  
 
-- Organized collaborative programs with local schools to enhance student learning.
-- Led weekly training for tutors on innovative teaching methods.
-- Mentored 2nd and 8th-grade students to improve math skills.
+- Organized and coordinated collaborative programs with Westport Elementary School, enhancing student development activities.
+- Instructed and mentored a diverse group of 2nd and 8th grade students.
 
 **Biostatistics Intern**  
 *GlaxoSmithKline | Jan 2022 – Jun 2022 | Karnataka, India*  
 
-- Developed Bayesian models for clinical trials to improve dose-response analysis.
-- Enhanced data analysis using R and SAS for clinical data presentation.
-
+*Conducted a thorough expository study** to develop a Bayesian Model Comparison for phase II clinical trial dose-response research.
+- Evaluated the selection of models between Frequentist and Bayesian techniques, incorporating historical data, and analyzing multiple dose levels.
+- Enhanced model accuracy and dependability using R for advanced statistical analysis on simulated data using mixed priors.
+- Improved the presentation and analysis of clinical trial data by leveraging SAS for data wrangling tasks, including creating mock shells, SDTM, and ADAM datasets.
 ---
 
 ## Skills
@@ -62,26 +62,48 @@
 ---
 
 ## Projects
+---
 
-**Big Data Analytics for Diabetes Risk Assessment**  
+### **Big Data Analytics for Diabetes Risk Assessment**  
 *Tools: PySpark, Python, Tableau, Databricks*  
-*Nov 2023*  
+*November 2023*
 
-- Designed a data pipeline and built machine learning models for risk prediction.
-- Created visual insights to communicate data findings effectively.
+**Project Overview**:  
+- Conducted comprehensive **data cleaning**, **visualizations**, and **data modeling** for diabetes risk assessment. Leveraged **machine learning models** to analyze risk factors and predict potential diabetes cases.
 
-**Deciphering Electric Energy Pricing in U.S. Households**  
+**Key Contributions**:
+- **Data Pipeline Design**: Designed a robust data pipeline for preprocessing and handling large datasets.
+- **Visual Insights**: Developed insightful visualizations to communicate findings and patterns effectively.
+- **Mentorship**: Collaborated under the guidance of **Marium Mehdi**, Department of Data Science, to refine modeling techniques and enhance outcomes.
+
+---
+
+### **Deciphering Electric Energy Pricing in U.S. Households**  
 *Tools: Python, Seaborn, Pandas, Numpy*  
-*Dec 2023*  
+*December 2023*
 
-- Analyzed energy pricing trends with statistical models and data visualizations.
-- Worked under guidance to optimize models for predictive accuracy.
+**Project Overview**:  
+- Conducted a comprehensive study on **electric energy pricing dynamics** across U.S. households.
+- Guided by **Masoud Soroush**, Professor, Department of Data Science, to uncover valuable insights into energy pricing patterns.
 
-**IPL Dashboard**  
-*Tools: Power BI, Excel, Power Query*  
-*July 2024*  
+**Key Contributions**:
+- **Data Cleaning & Preparation**: Performed extensive data cleaning and preprocessing to ensure data integrity for analysis.
+- **Exploratory Data Analysis (EDA)**: Utilized **Seaborn** and **Pandas** for visualizations and statistical summaries to explore key patterns in energy pricing.
+- **Machine Learning Models**: Employed various machine learning models to predict and analyze pricing trends, incorporating necessary hyper-parameter tuning for optimization.
+- **Insightful Reporting**: Compiled findings.
 
-- Developed an interactive dashboard analyzing 17 seasons of IPL data.
-- Designed visuals to showcase player performance and team statistics.
+---
+
+### **Indian Premier League (IPL) Dashboard**  
+*Tools: Power BI, Microsoft Excel, Power Query*  
+*July 2024*
+
+**Project Overview**:  
+- Created a comprehensive and interactive **Power BI dashboard** to analyze the performance of teams and players over 17 IPL seasons.
+
+**Key Contributions**:
+- **Data Transformation**: Transformed data from 17 seasons and 1106 matches of IPL Cricket into actionable insights using **Power Query**.
+- **Interactive Dashboard Design**: Designed a user-friendly interface with dynamic visualizations, highlighting key metrics like player performance, team statistics, and game outcomes.
+- **Impactful Decision-Making**: Enabled stakeholders to make data-driven decisions by providing a clear and comprehensive view of the data through visual storytelling.
 
 ---
