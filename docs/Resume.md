@@ -1,7 +1,7 @@
 ---
 
 # **CHATHURYA GOUD KODIPAKA**
-
+![Headshot Photo](pic.png)
 ---
 
 ## Contact Information
