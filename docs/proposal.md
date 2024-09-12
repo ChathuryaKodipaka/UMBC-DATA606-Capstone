@@ -83,3 +83,8 @@ Music plays a crucial role in influencing and enhancing emotions, making it a po
 | `mood`              | Categorical   | Mood category of the song.                           | Happy, Sad, Calm, Energetic, etc.                   |
 
 - **Target and Features for ML Models**: The dataset does not have a direct target label for supervised learning but is used to match mood-related features with the emotions detected from the facial images in your first dataset.
+
+Data Visualization
+Plotting one image from each emotion
+![image](https://github.com/user-attachments/assets/c9165b2d-9a4f-40c3-a0f9-826e5bf3ce1a)
+
