@@ -92,6 +92,7 @@ Music plays a crucial role in influencing and enhancing emotions, making it a po
 1. FER Dataset
 Bar graph
 ![image](https://github.com/user-attachments/assets/ceb3fec9-dfaa-487f-9520-8e66614817f2)
+
 The visualization of the emotion distribution is showing an imbalance among different classes. The "happy" emotion is significantly overrepresented, while "disgust" is highly underrepresented.
 
 Plotting one image from each emotion
