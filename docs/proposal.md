@@ -55,7 +55,7 @@ Music plays a crucial role in influencing and enhancing emotions, making it a po
 - **Description**: [Kaggle - Spotify Music Data](https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods) The Spotify music dataset contains detailed audio features and metadata for various songs, used to match musical moods (like Happy, Sad, Energetic, and Calm).
 - **Data Size**: 57 KB.
 - **Data Shape**: 686 rows and 19 columns.
-- **Time Period**: The data covers songs from various release dates, ranging from the early 1980s to recent years, without a specific time-bound range like 2010 to 2020.
+- **Time Period**: The data covers songs from various release dates, ranging from 1963 to 2020.
 - **What Each Row Represents**: Each row represents a unique song, including its metadata (like name, album, artist) and audio features that describe its mood and musical characteristics.
 
 ### Data Dictionary
