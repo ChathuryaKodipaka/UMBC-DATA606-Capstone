@@ -1,7 +1,4 @@
-# Emotion-Based Sleep and Relaxation Music App
-
-## Project Overview
-This project was developed as part of the UMBC Data Science Master’s Degree Capstone, under the guidance of Dr. Chaojie (Jay) Wang. The app detects user emotions through facial expressions and recommends personalized music to help users relax and improve their sleep quality.
+# Emotion-Based Workout Music Recommender
 
 ## Author
 - **Name**: Chathurya Kodipaka
