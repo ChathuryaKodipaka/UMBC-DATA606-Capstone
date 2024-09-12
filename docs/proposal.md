@@ -2,7 +2,7 @@
 
 ## Author
 - **Name**: Chathurya Kodipaka
-- **GitHub Repository**: [GitHub Repository Link](https://github.com/yourusername/Emotion-Sleep-Relaxation-Music-App)
-- **LinkedIn Profile**: [LinkedIn Profile](https://www.linkedin.com/in/chathurya)
+- **GitHub Repository**: [GitHub Repository Link](https://github.com/Chathurya2024/UMBC-DATA606-Capstone.git)
+- **LinkedIn Profile**: [LinkedIn Profile](linkedin.com/in/chathuryagoud)
 - **PowerPoint Presentation**: [PowerPoint Presentation Link](#)
 - **YouTube Video**: [YouTube Video Link](#)
