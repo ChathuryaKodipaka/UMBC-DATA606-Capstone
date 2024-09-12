@@ -14,6 +14,10 @@ This project focuses on developing an emotion-based music recommendation system 
 ### Why does it matter? 
 Music plays a crucial role in influencing and enhancing emotions, making it a powerful tool for mood regulation and personal well-being. Traditional music recommendation systems rely on user preferences or listening history, but they often fail to capture the user’s current emotional state. An emotion-based recommendation system addresses this gap by offering real-time, personalized music experiences that can uplift, calm, or energize users based on their detected emotions. This approach has significant potential in areas such as mental health, entertainment, and personalized user experiences.
 
+### Research Questions
+
+1. How accurately can facial emotion detection models classify emotions from images?
+2. Which machine learning models (e.g., CNNs, VGG16, ResNet) are most effective in detecting facial emotions, and how do preprocessing techniques like image augmentation and normalization impact their performance?
 ## 3. Data
 ### Data sources:
 
