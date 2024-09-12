@@ -49,7 +49,7 @@ Music plays a crucial role in influencing and enhancing emotions, making it a po
 | `Emotion`       | Categorical    | The type of emotion shown in the facial image.               | 0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral |
 
 - **Target/Label Column**: The `Emotion` column is the target/label. The model will be trained to predict these emotion labels based on the features extracted from the images.
-- **Features/Predictors**: The images will be used as input to the model, where Convolutional Neural Networks (CNNs) or similar image processing techniques will automatically extract relevant features, such as facial expressions, that help in determining the emotion displayed in the image.
+
 
 ### 2. Spotify Dataset
 - **Description**: [Kaggle - Spotify Music Data](https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods) The Spotify music dataset contains detailed audio features and metadata for various songs, used to match musical moods (like Happy, Sad, Energetic, and Calm).
