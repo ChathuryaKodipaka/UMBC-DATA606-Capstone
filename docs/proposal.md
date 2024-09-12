@@ -85,6 +85,10 @@ Music plays a crucial role in influencing and enhancing emotions, making it a po
 - **Target and Features for ML Models**: The dataset does not have a direct target label for supervised learning but is used to match mood-related features with the emotions detected from the facial images in your first dataset.
 
 ## Data Visualization
+1. FER Dataset
+Bar graph
+![image](https://github.com/user-attachments/assets/ceb3fec9-dfaa-487f-9520-8e66614817f2)
+The visualization of the emotion distribution is showing an imbalance among different classes. The "happy" emotion is significantly overrepresented, while "disgust" is highly underrepresented.
 
 Plotting one image from each emotion
 ![image](https://github.com/user-attachments/assets/c9165b2d-9a4f-40c3-a0f9-826e5bf3ce1a)
