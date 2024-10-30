@@ -17,12 +17,17 @@ st.markdown("<div style='text-align: center;'>Upload an image or capture one wit
 model_file_id = '1-4IIKbpOG1LzGi-plT1PDAQ9JskbDXRn'
 model_path = 'resnet50v2_model.keras'
 
-# Download the model from Google Drive if it doesn’t exist locally
-if not os.path.exists(model_path):
+# Download the model from Google Drive if it doesn’t exist locally or if it's incomplete
+if not os.path.exists(model_path) or os.path.getsize(model_path) < 1e6:  # Check if file size is <1MB as a safeguard
     gdown.download(f'https://drive.google.com/uc?id={model_file_id}', model_path, quiet=False)
 
-# Load the trained model
-model = tf.keras.models.load_model(model_path)
+# Try loading the model with error handling
+try:
+    model = tf.keras.models.load_model(model_path)
+    st.success("Model loaded successfully!")
+except ValueError as e:
+    st.error("Failed to load the model. Please check the model file format and compatibility.")
+    st.stop()  # Stop execution if the model can't be loaded
 
 # Load music data from the repository
 csv_path = os.path.join('data', 'data_moods.csv')
