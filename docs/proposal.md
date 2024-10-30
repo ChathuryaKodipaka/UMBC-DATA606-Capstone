@@ -116,9 +116,13 @@ To ensure data quality and uniformity, a preliminary analysis was conducted on t
 | happy    | PublicTest_61141696.jpg  | Grayscale  | (48, 48) |
 | sad      | PublicTest_21178862.jpg  | Grayscale  | (48, 48) |
 
-
+### Image Sample Visualization
+A random sample image from each emotion class was displayed. his visualization helps validate the emotional expressions represented in the dataset and provides insight into the diversity of facial expressions across different emotional states.
+### Train Dataset
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/dcf21519-77c6-42e9-9064-5bf014a55c28">
 
+### Test Dataset
+<img width="555" alt="image" src="https://github.com/user-attachments/assets/a8547df8-dc64-4739-a3b8-35e24fe28c92">
 
 1. FER Dataset
 Bar graph
