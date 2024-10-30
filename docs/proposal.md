@@ -117,19 +117,27 @@ To ensure data quality and uniformity, a preliminary analysis was conducted on t
 | sad      | PublicTest_21178862.jpg  | Grayscale  | (48, 48) |
 
 ### Image Sample Visualization
-A random sample image from each emotion class was displayed. his visualization helps validate the emotional expressions represented in the dataset and provides insight into the diversity of facial expressions across different emotional states.
+A random sample image from each emotion class was displayed. The visualization helps validate the emotional expressions represented in the dataset and provides insight into the diversity of facial expressions across different emotional states.
 ### Train Dataset
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/dcf21519-77c6-42e9-9064-5bf014a55c28">
 
 ### Test Dataset
 <img width="555" alt="image" src="https://github.com/user-attachments/assets/a8547df8-dc64-4739-a3b8-35e24fe28c92">
 
-1. FER Dataset
-Bar graph
-![image](https://github.com/user-attachments/assets/ceb3fec9-dfaa-487f-9520-8e66614817f2)
+### Bar graph
 
-The visualization of the emotion distribution is showing an imbalance among different classes. The "happy" emotion is significantly overrepresented, while "disgust" is highly underrepresented.
+### Train
+![image](https://github.com/user-attachments/assets/e3c1e3dc-029c-4901-ab65-34b2a99ce05a)
+### Test
+![image](https://github.com/user-attachments/assets/97686175-5d5e-4ec0-8c1a-5d75a9775aa0)
 
-Plotting one image from each emotion
-![image](https://github.com/user-attachments/assets/c9165b2d-9a4f-40c3-a0f9-826e5bf3ce1a)
+To analyze the distribution of emotions in the dataset, we visualized the count of each emotion category in the training and testing sets. This assessment reveals class imbalances that could influence model performance and helps guide strategies for handling these imbalances during training. Notably, both sets exhibit an uneven distribution across classes.
+### Pie Chart
+![image](https://github.com/user-attachments/assets/2f686ceb-c22b-4b97-8c3a-4e990c71421a)
+
+![image](https://github.com/user-attachments/assets/f393a914-1aa6-4ddf-a966-d22153b73a61)
+
+
+
+
 
