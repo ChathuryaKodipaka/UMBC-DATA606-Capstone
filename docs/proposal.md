@@ -88,7 +88,38 @@ Music plays a crucial role in influencing and enhancing emotions, making it a po
 
 - **Target and Features for ML Models**: The dataset does not have a direct target label for supervised learning but is used to match mood-related features with the emotions detected from the facial images in your first dataset.
 
-## Data Visualization
+## 4. xploratory Data Analysis (EDA)
+### Image Consistency Verification: Color and Size
+To ensure data quality and uniformity, a preliminary analysis was conducted on the FER-2013 dataset images. A subset of images from each emotion class in both the training and testing datasets was evaluated to verify the color format and image dimensions. All images were in grayscale and consistently measured 48x48 pixels across all classes.
+
+### Train Image Info (Color Type, Size)
+
+| Class    | Image Name             | Color Type | Size   |
+|----------|-------------------------|------------|--------|
+| fear     | Training_94351832.jpg   | Grayscale  | (48, 48) |
+| disgust  | Training_26971398.jpg   | Grayscale  | (48, 48) |
+| angry    | Training_25593834.jpg   | Grayscale  | (48, 48) |
+| surprise | Training_64177148.jpg   | Grayscale  | (48, 48) |
+| neutral  | Training_57327867.jpg   | Grayscale  | (48, 48) |
+| happy    | Training_13444081.jpg   | Grayscale  | (48, 48) |
+| sad      | Training_24023388.jpg   | Grayscale  | (48, 48) |
+
+### Test Image Info (Color Type, Size)
+
+| Class    | Image Name              | Color Type | Size   |
+|----------|--------------------------|------------|--------|
+| fear     | PrivateTest_82926425.jpg | Grayscale  | (48, 48) |
+| disgust  | PrivateTest_93390752.jpg | Grayscale  | (48, 48) |
+| angry    | PublicTest_21226976.jpg  | Grayscale  | (48, 48) |
+| surprise | PublicTest_28516575.jpg  | Grayscale  | (48, 48) |
+| neutral  | PublicTest_92911055.jpg  | Grayscale  | (48, 48) |
+| happy    | PublicTest_61141696.jpg  | Grayscale  | (48, 48) |
+| sad      | PublicTest_21178862.jpg  | Grayscale  | (48, 48) |
+
+
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/dcf21519-77c6-42e9-9064-5bf014a55c28">
+
+
 1. FER Dataset
 Bar graph
 ![image](https://github.com/user-attachments/assets/ceb3fec9-dfaa-487f-9520-8e66614817f2)
