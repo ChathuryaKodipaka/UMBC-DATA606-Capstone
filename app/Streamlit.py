@@ -17,26 +17,42 @@ st.markdown("<div style='text-align: center;'>Upload an image or capture one wit
 model_file_id = '1-4IIKbpOG1LzGi-plT1PDAQ9JskbDXRn'
 model_path = 'resnet50v2_model.keras'
 
-# Download the model from Google Drive if it doesn’t exist locally or if the file is too small (potential incomplete download)
-if not os.path.exists(model_path) or os.path.getsize(model_path) < 1e6:  # 1MB size check
+# Download the model from Google Drive if it doesn’t exist locally or if the file is too small
+if not os.path.exists(model_path) or os.path.getsize(model_path) < 1e6:  # Check file size >1MB
+    st.write("Downloading the model from Google Drive...")
     gdown.download(f'https://drive.google.com/uc?id={model_file_id}', model_path, quiet=False)
 
-# Try loading the model with error handling
-try:
-    model = tf.keras.models.load_model(model_path)
-    st.success("Model loaded successfully!")
-except ValueError as e:
-    st.error("Failed to load the model. Please check the model file format and compatibility.")
-    st.stop()  # Stop execution if the model can't be loaded
+# Verify model file and attempt to load it
+if os.path.exists(model_path):
+    file_size = os.path.getsize(model_path) / (1024 * 1024)  # MB
+    st.write(f"Model file size: {file_size:.2f} MB")
+
+    try:
+        model = tf.keras.models.load_model(model_path)
+        st.success("Model loaded successfully!")
+    except Exception as e:
+        st.error(f"Failed to load the model. Error: {e}")
+        st.stop()  # Stop execution if the model can't be loaded
+else:
+    st.error("Model file not found or incomplete. Please check the download.")
+    st.stop()
 
 # Load music data from the repository
 csv_path = os.path.join('data', 'data_moods.csv')
-data_mood = pd.read_csv(csv_path)
-data_mood['mood'] = data_mood['mood'].str.lower()
+if os.path.exists(csv_path):
+    data_mood = pd.read_csv(csv_path)
+    data_mood['mood'] = data_mood['mood'].str.lower()
+    st.write("Music data loaded successfully.")
+else:
+    st.error("Music data file 'data_moods.csv' not found.")
+    st.stop()
 
 # Define class labels and mood mapping
 class_labels = {0: 'angry', 1: 'disgust', 2: 'fear', 3: 'happy', 4: 'neutral', 5: 'sad', 6: 'surprise'}
-emotion_to_mood = {'happy': 'happy', 'neutral': 'calm', 'angry': 'sad', 'fear': 'sad', 'disgust': 'sad', 'surprise': 'energetic', 'sad': 'sad'}
+emotion_to_mood = {
+    'happy': 'happy', 'neutral': 'calm', 'angry': 'sad', 'fear': 'sad',
+    'disgust': 'sad', 'surprise': 'energetic', 'sad': 'sad'
+}
 
 # Initialize filtered_songs as None
 filtered_songs = None
