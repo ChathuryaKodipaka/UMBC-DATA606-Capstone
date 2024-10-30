@@ -148,6 +148,7 @@ There are no missing values across all the columns in the dataset, including fea
 <img width="1295" alt="image" src="https://github.com/user-attachments/assets/303b4dc3-3d93-4812-9a51-b06930a366aa">
 <img width="576" alt="image" src="https://github.com/user-attachments/assets/1e79779f-a53b-4586-8d50-f430527acbbe">
 
+### Mood Distribution
 ![image](https://github.com/user-attachments/assets/74ea4460-fcf5-4ec7-8cf2-c6804b30f743)
 ![image](https://github.com/user-attachments/assets/6d84c58c-dcc7-4e75-91c2-ee285a787f50)
 
