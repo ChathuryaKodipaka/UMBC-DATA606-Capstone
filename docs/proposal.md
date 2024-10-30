@@ -88,7 +88,8 @@ Music plays a crucial role in influencing and enhancing emotions, making it a po
 
 - **Target and Features for ML Models**: The dataset does not have a direct target label for supervised learning but is used to match mood-related features with the emotions detected from the facial images in your first dataset.
 
-## 4. xploratory Data Analysis (EDA)
+## 4. Exploratory Data Analysis (EDA)
+### FER - 2013
 ### Image Consistency Verification: Color and Size
 To ensure data quality and uniformity, a preliminary analysis was conducted on the FER-2013 dataset images. A subset of images from each emotion class in both the training and testing datasets was evaluated to verify the color format and image dimensions. All images were in grayscale and consistently measured 48x48 pixels across all classes.
 
@@ -137,7 +138,18 @@ To analyze the distribution of emotions in the dataset, we visualized the count 
 
 ![image](https://github.com/user-attachments/assets/f393a914-1aa6-4ddf-a966-d22153b73a61)
 
+### Spotify Data
+### Missing Values
+<img width="172" alt="image" src="https://github.com/user-attachments/assets/a35cc186-292a-4d61-83c3-7b723df6224d">
 
+There are no missing values across all the columns in the dataset, including features like name, album, artist, and other audio characteristics (popularity, danceability, energy, etc.) as well as the target mood variable.
+
+### Descriptive Statistics
+<img width="1295" alt="image" src="https://github.com/user-attachments/assets/303b4dc3-3d93-4812-9a51-b06930a366aa">
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/1e79779f-a53b-4586-8d50-f430527acbbe">
+
+![image](https://github.com/user-attachments/assets/74ea4460-fcf5-4ec7-8cf2-c6804b30f743)
+![image](https://github.com/user-attachments/assets/6d84c58c-dcc7-4e75-91c2-ee285a787f50)
 
 
 
