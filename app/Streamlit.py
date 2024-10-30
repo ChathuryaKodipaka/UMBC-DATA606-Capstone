@@ -14,24 +14,24 @@ st.markdown("<h1 style='text-align: center;'>Emotion-Based Music Recommendation<
 st.markdown("<div style='text-align: center;'>Upload an image or capture one with your webcam, and we'll recommend songs based on your detected emotion!</div>", unsafe_allow_html=True)
 
 # Google Drive file ID and download path for the model
-file_id = '1-4IIKbpOG1LzGi-plT1PDAQ9JskbDXRn'
-download_path = 'resnet50v2_model.keras'
+model_file_id = '1-4IIKbpOG1LzGi-plT1PDAQ9JskbDXRn'
+model_path = 'resnet50v2_model.keras'
 
 # Download the model from Google Drive if it doesn’t exist locally
-if not os.path.exists(download_path):
-    gdown.download(f'https://drive.google.com/uc?id={file_id}', download_path, quiet=False)
+if not os.path.exists(model_path):
+    gdown.download(f'https://drive.google.com/uc?id={model_file_id}', model_path, quiet=False)
 
 # Load the trained model
-model = tf.keras.models.load_model(download_path)
+model = tf.keras.models.load_model(model_path)
+
+# Load music data from the repository
+csv_path = os.path.join('data', 'data_moods.csv')
+data_mood = pd.read_csv(csv_path)
+data_mood['mood'] = data_mood['mood'].str.lower()
 
 # Define class labels and mood mapping
 class_labels = {0: 'angry', 1: 'disgust', 2: 'fear', 3: 'happy', 4: 'neutral', 5: 'sad', 6: 'surprise'}
 emotion_to_mood = {'happy': 'happy', 'neutral': 'calm', 'angry': 'sad', 'fear': 'sad', 'disgust': 'sad', 'surprise': 'energetic', 'sad': 'sad'}
-
-# Load music data and convert mood column to lowercase
-csv_path = '/Users/chathurya/Desktop/Emotion_Detection/Spotify_Music/data_moodS.csv'
-data_mood = pd.read_csv(csv_path)
-data_mood['mood'] = data_mood['mood'].str.lower()
 
 # Initialize filtered_songs as None
 filtered_songs = None
