@@ -5,14 +5,24 @@ from PIL import Image
 import numpy as np
 import base64
 from io import BytesIO
+import gdown
+import os
 
 # Set Streamlit to wide layout and center the title
 st.set_page_config(layout="wide")
 st.markdown("<h1 style='text-align: center;'>Emotion-Based Music Recommendation</h1>", unsafe_allow_html=True)
 st.markdown("<div style='text-align: center;'>Upload an image or capture one with your webcam, and we'll recommend songs based on your detected emotion!</div>", unsafe_allow_html=True)
 
+# Google Drive file ID and download path for the model
+file_id = '1-4IIKbpOG1LzGi-plT1PDAQ9JskbDXRn'
+download_path = 'resnet50v2_model.keras'
+
+# Download the model from Google Drive if it doesn’t exist locally
+if not os.path.exists(download_path):
+    gdown.download(f'https://drive.google.com/uc?id={file_id}', download_path, quiet=False)
+
 # Load the trained model
-model = tf.keras.models.load_model('/Users/chathurya/Desktop/Emotion_Detection/ResNet50V2_Model/ResNet50V2_Output/resnet50v2_model.keras')
+model = tf.keras.models.load_model(download_path)
 
 # Define class labels and mood mapping
 class_labels = {0: 'angry', 1: 'disgust', 2: 'fear', 3: 'happy', 4: 'neutral', 5: 'sad', 6: 'surprise'}
