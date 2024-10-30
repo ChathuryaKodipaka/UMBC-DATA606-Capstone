@@ -13,12 +13,12 @@ st.set_page_config(layout="wide")
 st.markdown("<h1 style='text-align: center;'>Emotion-Based Music Recommendation</h1>", unsafe_allow_html=True)
 st.markdown("<div style='text-align: center;'>Upload an image or capture one with your webcam, and we'll recommend songs based on your detected emotion!</div>", unsafe_allow_html=True)
 
-# Google Drive file ID and download path for the model
+# Google Drive file ID for the model and download path
 model_file_id = '1-4IIKbpOG1LzGi-plT1PDAQ9JskbDXRn'
 model_path = 'resnet50v2_model.keras'
 
-# Download the model from Google Drive if it doesn’t exist locally or if it's incomplete
-if not os.path.exists(model_path) or os.path.getsize(model_path) < 1e6:  # Check if file size is <1MB as a safeguard
+# Download the model from Google Drive if it doesn’t exist locally or if the file is too small (potential incomplete download)
+if not os.path.exists(model_path) or os.path.getsize(model_path) < 1e6:  # 1MB size check
     gdown.download(f'https://drive.google.com/uc?id={model_file_id}', model_path, quiet=False)
 
 # Try loading the model with error handling
