@@ -226,5 +226,12 @@ Summary: ResNet50V2 emerged as the most consistent model, balancing accuracy and
 ## Performance Metrics Visualization
 ![image](https://github.com/user-attachments/assets/390db976-29ad-4343-97aa-169af66b90c4)
 
-Confused matrix
+### Confused matrix
 <img width="1219" alt="image" src="https://github.com/user-attachments/assets/99967a45-eeaf-4188-b32d-e0c09866de31">
+
+## 7. Application of the Trained Models
+A web app was developed using Streamlit to allow users to interact with the trained emotion-based music recommendation model. The app, designed for simplicity and ease of use, enables users to upload images, detects their emotional state, and provides curated song recommendations based on the detected mood.
+
+The code was written in Visual Studio Code for efficient development and version control, with GitHub used to manage the codebase and streamline deployment to Streamlit Cloud for easy accessibility.
+<img width="1376" alt="image" src="https://github.com/user-attachments/assets/2eed4973-edd4-4f52-b293-0ba2ff0a2d68">
+
