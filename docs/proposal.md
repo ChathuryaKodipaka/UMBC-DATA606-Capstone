@@ -157,8 +157,11 @@ There are no missing values across all the columns in the dataset, including fea
 ### 1.Models for Predictive Analytics
 
 CNN: Designed for feature extraction from grayscale facial images through multiple convolutional layers, focused on capturing essential details for emotion classification.
+
 ResNet: Utilizes residual connections to mitigate the vanishing gradient issue, enabling deeper architecture for improved performance in emotion detection.
+
 EfficientNetB0: Known for its efficiency and balance, this model applies scaling to depth, width, and resolution, optimizing for both accuracy and computational resources.
+
 VGG16: A deeper model with a straightforward architecture, using stacked convolutional layers to analyze the impact of depth on classification accuracy.
 
 ### 2. Model Training Approach
@@ -166,7 +169,9 @@ VGG16: A deeper model with a straightforward architecture, using stacked convolu
 All models follow a similar training setup:
 
 Data Split: An 80/20 split is used for training and testing, with an additional 20% validation split within the training data to monitor model performance continuously and prevent overfitting.
+
 Data Augmentation: Training data undergoes augmentation techniques, including rotation, zoom, width/height shifts, brightness adjustments, and horizontal flips. These augmentations improve model generalization, particularly for underrepresented classes like "disgust."
+
 Transfer Learning: For EfficientNetB0 and VGG16, pre-trained ImageNet weights are used, with selected layers fine-tuned to adapt the models for emotion classification, balancing feature retention with task-specific adaptation.
 
 ### 3. Python Packages and Libraries
@@ -174,18 +179,26 @@ Transfer Learning: For EfficientNetB0 and VGG16, pre-trained ImageNet weights ar
 The models are implemented using:
 
 TensorFlow and Keras for deep learning model development.
+
 ImageDataGenerator from Keras for data augmentation.
+
 scikit-learn for metrics and model evaluation.
 
 ### 4. Development Environment
 
 Google Colab: Primary environment for model training and evaluation, leveraging its GPU resources to handle deep learning tasks efficiently.
+
 Streamlit: Used for deploying the emotion-based music recommendation system, providing an interactive and user-friendly web application for end-users.
+
 Visual Studio Code (VS Code): Employed for development and deployment, facilitating code editing, debugging, and project management in a streamlined environment.
+
 GitHub: Utilized for version control and collaborative code management, ensuring organized and accessible project development.
 
 ### 5. Model Performance Measurement and Comparison
 Accuracy: Serves as the primary metric to assess the overall performance across the dataset.
+
 Loss: Monitored during training to evaluate convergence and identify potential overfitting or underfitting issues.
+
 Confusion Matrix: Provides insights into model performance across individual emotion categories, identifying strengths (e.g., high accuracy for "happy" and "neutral") and areas of confusion (e.g., overlap between "surprise" and "fear").
+
 Validation and Test Accuracy: Essential for evaluating model generalization, with consistent monitoring across epochs to detect signs of overfitting.
