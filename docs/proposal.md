@@ -188,10 +188,6 @@ scikit-learn for metrics and model evaluation.
 
 Google Colab: Primary environment for model training and evaluation, leveraging its GPU resources to handle deep learning tasks efficiently.
 
-Streamlit: Used for deploying the emotion-based music recommendation system, providing an interactive and user-friendly web application for end-users.
-
-Visual Studio Code (VS Code): Employed for development and deployment, facilitating code editing, debugging, and project management in a streamlined environment.
-
 GitHub: Utilized for version control and collaborative code management, ensuring organized and accessible project development.
 
 ### 5. Model Performance Measurement and Comparison
