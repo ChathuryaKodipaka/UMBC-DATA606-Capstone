@@ -198,3 +198,33 @@ Loss: Monitored during training to evaluate convergence and identify potential o
 Confusion Matrix: Provides insights into model performance across individual emotion categories, identifying strengths (e.g., high accuracy for "happy" and "neutral") and areas of confusion (e.g., overlap between "surprise" and "fear").
 
 Validation and Test Accuracy: Essential for evaluating model generalization, with consistent monitoring across epochs to detect signs of overfitting.
+
+## 6. Conclusion
+
+| Metric              | CNN Value | ResNet50V2 Value | EfficientNetB0 Value | VGG16 Value |
+|---------------------|-----------|------------------|-----------------------|-------------|
+| Best Epoch          | 47.00     | 15.00           | 21.00                | 15.00       |
+| Test Accuracy       | 0.67      | 0.68            | 0.68                 | 0.63        |
+| Test Loss           | 0.92      | 0.92            | 1.06                 | 1.01        |
+| Train Accuracy      | 0.70      | 0.74            | 0.76                 | 0.68        |
+| Train Loss          | 0.82      | 0.73            | 0.78                 | 0.86        |
+| Validation Accuracy | 0.66      | 0.67            | 0.67                 | 0.63        |
+| Validation Loss     | 0.95      | 0.94            | 1.11                 | 1.01        |
+
+Top Accuracy: ResNet50V2 and EfficientNetB0 achieved the highest test accuracy (0.68), showing strong generalization capabilities on unseen data. This indicates both models handle emotion classification effectively, even with limited training samples for certain emotions.
+
+Efficient Convergence: ResNet50V2 reached optimal performance by epoch 15, demonstrating fast convergence and suggesting it requires fewer epochs compared to CNN and EfficientNetB0. This efficiency makes ResNet50V2 particularly suitable for applications requiring rapid training or deployment.
+
+Consistent Loss Metrics: ResNet50V2 exhibited the lowest training loss (0.73) and validation loss (0.94), indicating stable learning across datasets without significant overfitting. This consistency suggests ResNet50V2 adapts well to the dataset and captures distinguishing features for emotion classification.
+
+Overfitting in EfficientNetB0: Although EfficientNetB0 achieved the highest training accuracy (0.76), its higher validation loss (1.11) points to mild overfitting. This outcome may stem from the model’s complexity, which could benefit from additional regularization techniques for improved generalization.
+
+VGG16’s Relative Performance: VGG16, while straightforward and effective, showed lower test accuracy (0.63) and higher loss values. This suggests that VGG16 may struggle with certain emotions or subtle expressions, making it less robust than ResNet50V2 and EfficientNetB0 for this specific dataset.
+
+Summary: ResNet50V2 emerged as the most consistent model, balancing accuracy and loss across training, validation, and test sets. Its stability, fast convergence, and low loss values make it a strong candidate for deployment. While EfficientNetB0 and CNN also show promise, they may require further regularization to enhance their generalization on new data.
+
+## Performance Metrics Visualization
+![image](https://github.com/user-attachments/assets/390db976-29ad-4343-97aa-169af66b90c4)
+
+Confused matrix
+<img width="1219" alt="image" src="https://github.com/user-attachments/assets/99967a45-eeaf-4188-b32d-e0c09866de31">
