@@ -154,7 +154,7 @@ There are no missing values across all the columns in the dataset, including fea
 
 ## 5. Model Training
 
-### 1.Models for Predictive Analytics
+### 1. Models for Predictive Analytics
 
 CNN: Designed for feature extraction from grayscale facial images through multiple convolutional layers, focused on capturing essential details for emotion classification.
 
