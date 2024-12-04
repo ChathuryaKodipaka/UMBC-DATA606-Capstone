@@ -252,5 +252,4 @@ Performance Optimization - To combat overfitting issues observed in complex mode
 1. Kaggle - FER-2013 Dataset [https://www.kaggle.com/datasets/msambare/fer2013]
 2. Kaggle - Spotify Music Data [https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods]
 3. Depuru, S., Nandam, A., Ramesh, P. A., Saktivel, M., & Amala, K. (2022). Human emotion recognition system using deep learning technique. Journal of Pharmaceutical Negative Results, 13(4), 1031-1035. file:///Users/chathurya/Downloads/jpnr-2022-04-141.pdf
-4. Streamlit Tutorial for Beginners
-This video provides a step-by-step guide to building interactive web applications using Streamlit, focusing on deployment and user-friendly interface design. It serves as a valuable resource for implementing the web application for the emotion-based music recommendation system. https://www.youtube.com/watch?v=2siBrMsqF44
+4. Streamlit Tutorial for Beginners - This video provides a step-by-step guide to building interactive web applications using Streamlit, focusing on deployment and user-friendly interface design. It serves as a valuable resource for implementing the web application for the emotion-based music recommendation system. https://www.youtube.com/watch?v=2siBrMsqF44
