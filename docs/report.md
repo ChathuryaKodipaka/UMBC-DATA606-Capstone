@@ -4,8 +4,7 @@
 - **Name**: Chathurya Kodipaka
 - **GitHub Repository**: [GitHub Repository Link](https://github.com/Chathurya2024/UMBC-DATA606-Capstone.git)
 - **LinkedIn Profile**: [LinkedIn Profile](https://linkedin.com/in/chathuryagoud)
-- **PowerPoint Presentation**: [PowerPoint Presentation Link]
-- - **PowerPoint Presentation**: [Emotion Detection Presentation](https://github.com/Chathurya2024/UMBC-DATA606-Capstone/raw/main/docs/emotion%20detection%20ppt.pptx)
+- **PowerPoint Presentation**: [Emotion Detection Presentation](https://github.com/Chathurya2024/UMBC-DATA606-Capstone/raw/main/docs/emotion%20detection%20ppt.pptx)
 
 - **YouTube Video**: [YouTube Video Link]
 
