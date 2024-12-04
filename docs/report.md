@@ -235,3 +235,22 @@ Summary: ResNet50V2 emerged as the most consistent model, balancing accuracy and
 ### Confused matrix
 <img width="1219" alt="image" src="https://github.com/user-attachments/assets/99967a45-eeaf-4188-b32d-e0c09866de31">
 
+## Future Enhancements
+
+Class Imbalance Solutions - To address the class imbalance observed in the FER-2013 dataset, particularly for emotions like "disgust," future efforts will focus on implementing techniques like oversampling or synthetic data generation. These methods will help ensure a more balanced representation of all emotion classes, leading to improved model performance and accuracy.
+
+Enhanced Data Augmentation - Additional data augmentation techniques, such as adjusting brightness and contrast or applying random cropping, will be explored. These strategies aim to create more diverse training samples, better preparing the model to handle variations in lighting and partial occlusions.
+
+Ensemble Models for Accuracy - To further improve the accuracy of emotion detection, ensemble methods will be adopted. By combining predictions from multiple models, such as ResNet50V2, EfficientNetB0, and CNNs, the system can leverage the strengths of each architecture and achieve more robust and reliable results.
+
+User Feedback Mechanism - A user feedback mechanism will be integrated into the recommendation system to allow users to rate the music suggestions. This feedback will be used to refine the recommendation algorithm, ensuring that the system becomes more aligned with user preferences over time.
+
+Performance Optimization - To combat overfitting issues observed in complex models like EfficientNetB0, advanced regularization techniques will be implemented. These enhancements will improve the model's generalization capability, ensuring it performs consistently well on unseen data.
+
+## References
+
+1. Kaggle - FER-2013 Dataset [https://www.kaggle.com/datasets/msambare/fer2013]
+2. Kaggle - Spotify Music Data [https://www.kaggle.com/datasets/musicblogger/spotify-music-data-to-identify-the-moods]
+3. Depuru, S., Nandam, A., Ramesh, P. A., Saktivel, M., & Amala, K. (2022). Human emotion recognition system using deep learning technique. Journal of Pharmaceutical Negative Results, 13(4), 1031-1035. file:///Users/chathurya/Downloads/jpnr-2022-04-141.pdf
+4. Streamlit Tutorial for Beginners
+This video provides a step-by-step guide to building interactive web applications using Streamlit, focusing on deployment and user-friendly interface design. It serves as a valuable resource for implementing the web application for the emotion-based music recommendation system. https://www.youtube.com/watch?v=2siBrMsqF44
