@@ -2,6 +2,8 @@
 
 # **CHATHURYA GOUD KODIPAKA**
 ![Headshot Photo](pic.png)
+https://github.com/ChathuryaKodipaka/UMBC-DATA606-Capstone/blob/main/docs/pic.png?raw=true![image](https://github.com/user-attachments/assets/0e9c4e57-e6cb-41bc-aa7b-a2703a9767d4)
+
 ---
 
 ## Contact Information
