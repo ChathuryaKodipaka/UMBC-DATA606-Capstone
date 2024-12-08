@@ -6,7 +6,7 @@
 - **LinkedIn Profile**: [LinkedIn Profile](https://linkedin.com/in/chathuryagoud)
 - **PowerPoint Presentation**: [Emotion Detection Presentation](https://github.com/Chathurya2024/UMBC-DATA606-Capstone/raw/main/docs/emotion%20detection%20ppt.pptx)
 
-- **YouTube Video**: [YouTube Video Link] (https://youtu.be/qZDYI4o-dcQ)
+- **YouTube Video**: [YouTube Video Link](https://youtu.be/qZDYI4o-dcQ)
 
 ## Background
 ### What is it about?
