@@ -7,7 +7,7 @@
 - **PowerPoint Presentation**: [Emotion Detection Presentation](https://github.com/Chathurya2024/UMBC-DATA606-Capstone/raw/main/docs/emotion%20detection%20ppt.pptx)
 
 - **YouTube Video**: [YouTube Video Link](https://youtu.be/qZDYI4o-dcQ)
-- **StreamLit Link**: [https://umbc-data606-capstone-yb4kp9hcsbb7glkhhfarul.streamlit.app/]
+- **StreamLit Link**: [Emotion Detection App](https://umbc-data606-capstone-yb4kp9hcsbb7glkhhfarul.streamlit.app/)
 
 ## Background
 ### What is it about?
